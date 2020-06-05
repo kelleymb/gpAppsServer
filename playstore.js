@@ -299,4 +299,4 @@ module.exports = [
       "Current Ver": "2.9",
       "Android Ver": "2.3.3 and up"
     }
-  ];
+];
